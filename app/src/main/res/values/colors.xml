@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="colorPrimary">#FF2550E4</color>
+    <color name="colorPrimaryDark">#DF2550E4</color>
+    <color name="primary">#212F3C</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="primary_light">#C8E6C9</color>
+
+    <!-- Secondary colors -->
+    <color name="colorSecondary">#FFFFFF</color>
+    <color name="colorSecondaryDark">#EAE4E8</color>
+
+    <!-- Accent color -->
+    <color name="accent">#FF5722</color>
+
+    <!-- Background colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#212121</color>
+
+    <!-- Text colors -->
+    <color name="black">#FF000000</color>
+    <color name="text_hint">#EAE4E8</color>
+
+    <!-- Icon colors -->
+    <color name="icon_active">#4CAF50</color>
+    <color name="icon_inactive">#9E9E9E</color>
+
+    <!-- intro color -->
+    <color name="intro_background">#FFFFFF</color>
+    <color name="intro_text_color">#000000</color>
+
+    <!-- Other colors -->
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainBgColor">#DF2550E4</color>
+    <color name="blue">#FF2550E4</color>
+</resources>
